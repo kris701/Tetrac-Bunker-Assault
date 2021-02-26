@@ -1,6 +1,6 @@
 # Tetrac Bunker Assault
 
 ### Steam Workshop Links
-https://steamcommunity.com/sharedfiles/filedetails/?id=2119764629
+Normal Version: https://steamcommunity.com/sharedfiles/filedetails/?id=2119764629
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2123785583
+No events Version: https://steamcommunity.com/sharedfiles/filedetails/?id=2123785583
