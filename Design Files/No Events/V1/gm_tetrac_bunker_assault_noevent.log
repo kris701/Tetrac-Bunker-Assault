@@ -1,0 +1,522 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 156 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (735327 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4495 texinfos to 1910
+Reduced 70 texdatas to 64 (1679 bytes to 1332)
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 156 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (732136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4455 texinfos to 1889
+Reduced 70 texdatas to 64 (1679 bytes to 1332)
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 156 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (732136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4449 texinfos to 1883
+Reduced 64 texdatas to 58 (1607 bytes to 1260)
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 156 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (732136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4449 texinfos to 1883
+Reduced 64 texdatas to 58 (1607 bytes to 1260)
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+reading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt
+1045 portalclusters
+3233 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2071 visible clusters (0.94%)
+Total clusters visible: 220438
+Average clusters visible: 210
+Building PAS...
+Average clusters audible: 669
+visdatasize:176630  compressed from 284240
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+46 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+PREP OK
+7707 faces
+6 degenerate faces
+330918 square feet [47652304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7701 patches before subdivision
+50517 patches after subdivision
+131 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7314819, max 891
+transfer lists:  55.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(177514, 140543, 65374)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27534, 20599, 8732)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4663, 3385, 1344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(855, 617, 234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(170, 123, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(36, 27, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0148 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  80/1024         3840/49152    ( 7.8%) 
+brushes               2099/16384       25188/196608   (12.8%) 
+brushsides           16905/65536      135240/524288   (25.8%) 
+planes               13118/65536      262360/1310720  (20.0%) 
+vertexes             11934/65536      143208/786432   (18.2%) 
+nodes                 3295/65536      105440/2097152  ( 5.0%) 
+texinfos              1883/12288      135576/884736   (15.3%) 
+texdata                 58/2048         1856/65536    ( 2.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7707/65536      431592/3670016  (11.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5822/65536      326032/3670016  ( 8.9%) 
+leaves                3376/65536      108032/2097152  ( 5.2%) 
+leaffaces             9000/65536       18000/131072   (13.7%) 
+leafbrushes           3906/65536        7812/131072   ( 6.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            60064/512000     240256/2048000  (11.7%) 
+edges                35265/256000     141060/1024000  (13.8%) 
+LDR worldlights        131/8192        11528/720896   ( 1.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            694/32768        6940/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14037/65536       28074/131072   (21.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]     6031796/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      176630/16777216 ( 1.1%) 
+entdata               [variable]      659066/393216   (167.6%) VERY FULL!
+LDR ambient table     3376/65536       13504/262144   ( 5.2%) 
+HDR ambient table     3376/65536       13504/262144   ( 5.2%) 
+LDR leaf ambient     10346/65536      289688/1835008  (15.8%) 
+HDR leaf ambient      3376/65536       94528/1835008  ( 5.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49396    ( 0.0%) 
+pakfile               [variable]      213325/0        ( 0.0%) 
+physics               [variable]      732136/4194304  (17.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 21533
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+13 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 156 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (732136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4449 texinfos to 1883
+Reduced 64 texdatas to 58 (1607 bytes to 1260)
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+reading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt
+1046 portalclusters
+3237 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2061 visible clusters (0.93%)
+Total clusters visible: 220987
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 670
+visdatasize:176449  compressed from 284512
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+45 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+PREP OK
+7707 faces
+6 degenerate faces
+330918 square feet [47652304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7701 patches before subdivision
+50525 patches after subdivision
+131 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7316233, max 891
+transfer lists:  55.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(177533, 140556, 65379)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27536, 20600, 8732)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4663, 3385, 1344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(856, 617, 234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(170, 123, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(36, 27, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0117 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  80/1024         3840/49152    ( 7.8%) 
+brushes               2099/16384       25188/196608   (12.8%) 
+brushsides           16905/65536      135240/524288   (25.8%) 
+planes               13118/65536      262360/1310720  (20.0%) 
+vertexes             11936/65536      143232/786432   (18.2%) 
+nodes                 3296/65536      105472/2097152  ( 5.0%) 
+texinfos              1883/12288      135576/884736   (15.3%) 
+texdata                 58/2048         1856/65536    ( 2.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7707/65536      431592/3670016  (11.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5822/65536      326032/3670016  ( 8.9%) 
+leaves                3377/65536      108064/2097152  ( 5.2%) 
+leaffaces             9002/65536       18004/131072   (13.7%) 
+leafbrushes           3906/65536        7812/131072   ( 6.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            60068/512000     240272/2048000  (11.7%) 
+edges                35267/256000     141068/1024000  (13.8%) 
+LDR worldlights        131/8192        11528/720896   ( 1.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            696/32768        6960/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14070/65536       28140/131072   (21.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]     6031780/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      176449/16777216 ( 1.1%) 
+entdata               [variable]      659083/393216   (167.6%) VERY FULL!
+LDR ambient table     3377/65536       13508/262144   ( 5.2%) 
+HDR ambient table     3377/65536       13508/262144   ( 5.2%) 
+LDR leaf ambient     10361/65536      290108/1835008  (15.8%) 
+HDR leaf ambient      3377/65536       94556/1835008  ( 5.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49396    ( 0.0%) 
+pakfile               [variable]      213325/0        ( 0.0%) 
+physics               [variable]      732136/4194304  (17.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 21537
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+12 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 156 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (732136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4449 texinfos to 1883
+Reduced 64 texdatas to 58 (1607 bytes to 1260)
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+reading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.prt
+1046 portalclusters
+3237 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2061 visible clusters (0.93%)
+Total clusters visible: 220987
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 670
+visdatasize:176447  compressed from 284512
+writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+43 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+PREP OK
+7707 faces
+6 degenerate faces
+330918 square feet [47652304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7701 patches before subdivision
+50525 patches after subdivision
+131 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7316233, max 891
+transfer lists:  55.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(177533, 140556, 65379)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27536, 20600, 8732)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4663, 3385, 1344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(856, 617, 234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(170, 123, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(36, 27, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0111 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  80/1024         3840/49152    ( 7.8%) 
+brushes               2099/16384       25188/196608   (12.8%) 
+brushsides           16905/65536      135240/524288   (25.8%) 
+planes               13118/65536      262360/1310720  (20.0%) 
+vertexes             11936/65536      143232/786432   (18.2%) 
+nodes                 3296/65536      105472/2097152  ( 5.0%) 
+texinfos              1883/12288      135576/884736   (15.3%) 
+texdata                 58/2048         1856/65536    ( 2.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7707/65536      431592/3670016  (11.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5822/65536      326032/3670016  ( 8.9%) 
+leaves                3377/65536      108064/2097152  ( 5.2%) 
+leaffaces             9002/65536       18004/131072   (13.7%) 
+leafbrushes           3906/65536        7812/131072   ( 6.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            60068/512000     240272/2048000  (11.7%) 
+edges                35267/256000     141068/1024000  (13.8%) 
+LDR worldlights        131/8192        11528/720896   ( 1.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            696/32768        6960/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14070/65536       28140/131072   (21.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]     6031780/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      176447/16777216 ( 1.1%) 
+entdata               [variable]      659083/393216   (167.6%) VERY FULL!
+LDR ambient table     3377/65536       13508/262144   ( 5.2%) 
+HDR ambient table     3377/65536       13508/262144   ( 5.2%) 
+LDR leaf ambient     10361/65536      290108/1835008  (15.8%) 
+HDR leaf ambient      3377/65536       94556/1835008  ( 5.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49396    ( 0.0%) 
+pakfile               [variable]      213325/0        ( 0.0%) 
+physics               [variable]      732136/4194304  (17.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 21537
+Writing c:\users\kris7\onedrive\map designing\hammer\tetrac bunker assault (no events)\map\v1\gm_tetrac_bunker_assault_noevent.bsp
+12 seconds elapsed
