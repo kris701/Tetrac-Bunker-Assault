@@ -1,0 +1,11 @@
+{
+    "title" : "gm_tetrac_bunker_assault",
+    "type" : "map",
+    "tags" : [ "fun" ],
+    "ignore" :
+    [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ]
+}
